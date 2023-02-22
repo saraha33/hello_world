@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[83],{976:function(n,e,o){"use strict";o.r(e);var t={name:"BaseComponentB",components:{BaseComponentA:o(336).default},props:{child:{type:Boolean,default:!1}}},p=o(11),s=Object(p.a)(t,(function(){return(0,this._self._c)("div",[this._v("Component B")])}),[],!1,null,"3be5c14c",null);e.default=s.exports}}]);
